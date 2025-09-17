@@ -1,2 +1,2 @@
 # dingyue-template
-自建节点的clash订阅模板，去除节点分区。
+自用订阅转换模板，依赖于GEO库，防DNS泄漏。
